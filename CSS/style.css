@@ -1,0 +1,55 @@
+/* Created By: Yuhao Peng 
+   Created On: 2023-05-05 
+   Title of Work: Resume */
+
+.resume {
+  width: 210mm;
+  max-width: 210mm;
+  height: 297mm;
+  max-height: 297mm;
+  padding: 0;
+  margin: 0 auto;
+  font-family: "Lato", sans-serif;
+}
+
+.name-section {
+  letter-spacing: 3px;
+}
+
+.section-content {
+  font-size: 12px;
+}
+
+.section-title {
+  font-size: 20px;
+}
+
+.section-subtitle,
+.job-section {
+  font-size: 14px;
+}
+
+.beige-title {
+  color: #e9d8a6;
+  letter-spacing: 1.5px;
+}
+
+.beige-bg {
+  background-color: #f3dfc1;
+}
+
+.coffee-text {
+  color: #6c584c;
+}
+
+.name-bg {
+  background-color: #5e6472;
+}
+
+.color-font {
+  color: #0197f6;
+}
+
+.progress-star {
+  color: #9094b6;
+}
