@@ -1,2 +1,2 @@
 # resume
-Personal resume written from scratch using HTML and CSS.
+Yuhao Peng's personal resume written from scratch using HTML and CSS.
